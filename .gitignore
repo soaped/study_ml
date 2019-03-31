@@ -1,0 +1,9 @@
+
+env/\.ipynb_checkpoints/housing-checkpoint\.ipynb
+
+env/\.Python
+env/bin/*
+env/etc/*
+env/include/*
+env/lib/*
+env/share/*
