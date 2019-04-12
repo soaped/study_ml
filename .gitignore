@@ -8,3 +8,4 @@ env/include/*
 env/lib/*
 env/share/*
 .idea/*
+env/\.ipynb_checkpoints/
